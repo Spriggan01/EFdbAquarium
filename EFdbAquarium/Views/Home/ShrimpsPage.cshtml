@@ -1,0 +1,90 @@
+﻿@using EFdbAquarium.Models
+@model ShrimpViewModel
+@{
+    ViewData["Title"] = "Shrimps";
+}
+
+<h2 class="mb-5">Каталог креветок</h2>
+
+<form method="get" class="mb-2">
+    <div style="display: inline-block;">
+        <label>Тип: </label>
+        <input name="name" value="@Model.FilterViewModel.SelectedName" />
+
+        <label>Тип корму: </label>
+        <select name="food" asp-items="Model.FilterViewModel.Foods"></select>
+
+        <input type="submit" value="Фільтр" class="btn btn-dark" />
+        <a asp-action="CreateShrimp" class="btn btn-warning">Додати креветку</a>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <tr class="table-warning">
+        <th>
+            <a asp-action="ShrimpsPage"
+               asp-route-sortOrder="@(Model.SortViewModel.TypeSort)"
+               asp-route-name="@(Model.FilterViewModel.SelectedName)"
+               asp-route-company="@(Model.FilterViewModel.SelectedFood)"
+               style="color:gold; text-shadow: black 0 0 2px;"><b>Вид</b></a>
+        </th>
+        <th>
+            <a asp-action="ShrimpsPage"
+               asp-route-sortOrder="@(Model.SortViewModel.LengthSort)"
+               asp-route-name="@(Model.FilterViewModel.SelectedName)"
+               asp-route-company="@(Model.FilterViewModel.SelectedFood)"
+               style="color:gold; text-shadow: black 0 0 2px;"><b>Довжина</b></a>
+        </th>
+        <th>
+            <a asp-action="ShrimpsPage"
+               asp-route-sortOrder="@(Model.SortViewModel.PriceSort)"
+               asp-route-name="@(Model.FilterViewModel.SelectedName)"
+               asp-route-company="@(Model.FilterViewModel.SelectedFood)"
+               style="color:gold; text-shadow: black 0 0 2px;"><b>Ціна</b></a>
+        </th>
+        <th>
+            <a asp-action="ShrimpsPage"
+               asp-route-sortOrder="@(Model.SortViewModel.FoodIdSort)"
+               asp-route-name="@(Model.FilterViewModel.SelectedName)"
+               asp-route-company="@(Model.FilterViewModel.SelectedFood)"
+               style="color:gold; text-shadow: black 0 0 2px;"><b>Тип корму</b></a>
+        </th>
+    </tr>
+    @foreach (var item in Model.Shrimps)
+    {
+        <tr>
+            <td>@item.Type</td>
+            <td>@item.Length</td>
+            <td>@item.Price<b> ₴</b></td>
+            <td>@item.Food.Name</td>
+        </tr>
+    }
+</table>
+@if (Model.PageViewModel.HasPreviousPage)
+{
+    <a asp-action="ShrimpsPage"
+   asp-route-page="@(Model.PageViewModel.PageNumber - 1)"
+   asp-route-name="@(Model.FilterViewModel.SelectedName)"
+   asp-route-company="@(Model.FilterViewModel.SelectedFood)"
+   asp-route-sortorder="@(Model.SortViewModel.Current)"
+   class="btn  btn-outline-dark">
+        <i class="glyphicon glyphicon-chevron-left"></i>
+        Назад
+    </a>
+}
+@if (Model.PageViewModel.HasNextPage)
+{
+    <a asp-action="ShrimpsPage"
+   asp-route-page="@(Model.PageViewModel.PageNumber + 1)"
+   asp-route-name="@(Model.FilterViewModel.SelectedName)"
+   asp-route-company="@(Model.FilterViewModel.SelectedFood)"
+   asp-route-sortorder="@(Model.SortViewModel.Current)"
+   class="btn btn-outline-dark">
+        Вперед
+        <i class="glyphicon glyphicon-chevron-right"></i>
+    </a>
+}
+<br />
+<br />
+<br />
+<br />

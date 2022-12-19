@@ -1,0 +1,29 @@
+﻿@model EFdbAquarium.Models.Landscape
+@{
+    ViewBag.Title = "Додавання ландшафту";
+}
+<form asp-action="createlandscape" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="CategoryName" class="control-label">Вид</label>
+        <input type="text" asp-for="CategoryName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="NameOfThePlant" class="control-label">Назва</label>
+        <input type="text" asp-for="NameOfThePlant" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="PlantPrice" class="control-label">Ціна</label>
+        <input type="text" asp-for="PlantPrice" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SoilType" class="control-label">Тип наповнювача</label>
+        <input type="text" asp-for="SoilType" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SoilPrice" class="control-label">Ціна</label>
+        <input type="text" asp-for="SoilPrice" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Надіслати" class="btn btn-default" />
+    </div>
+</form>

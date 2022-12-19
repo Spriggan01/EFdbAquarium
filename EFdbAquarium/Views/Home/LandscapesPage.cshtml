@@ -1,0 +1,114 @@
+﻿@using EFdbAquarium.Models
+@model LandscapeViewModel
+@{
+    ViewData["Title"] = "Landscape";
+}
+
+<h2 class="mb-5">Каталог доповнень для акваріумів</h2>
+
+<form method="get" class="mb-2">
+    <div style="display: inline-block;">
+        <label>Категорія: </label>
+        <input name="name" value="@Model.LandscapeFilterViewModel.SelectedName" />
+
+        <label>Розмір: </label>
+        <select name="decoration" asp-items="Model.LandscapeFilterViewModel.Decorations"></select>
+
+        <input type="submit" value="Фільтр" class="btn btn-dark" />
+        <a asp-action="CreateLandscape" class="btn" style="background-color: brown; color: white">Додати</a>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <tr class="table-danger">
+        <th>
+            <a asp-action="LandscapesPage"
+               asp-route-sortOrder="@(Model.LandscapeSortViewModel.CategoryNameSort)"
+               asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+               asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+               style="color:brown; text-shadow: black 0 0 1px;"><b>Категорія</b></a>
+        </th>
+        <th>
+            <a asp-action="LandscapesPage"
+               asp-route-sortOrder="@(Model.LandscapeSortViewModel.NameOfThePlantSort)"
+               asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+               asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+               style="color:brown; text-shadow: black 0 0 1px;"><b>Назва</b></a>
+        </th>
+        <th>
+            <a asp-action="LandscapesPage"
+               asp-route-sortOrder="@(Model.LandscapeSortViewModel.PlantPriceSort)"
+               asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+               asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+               style="color:brown; text-shadow: black 0 0 1px;"><b>Ціна</b></a>
+        </th>
+        <th>
+            <a asp-action="LandscapesPage"
+               asp-route-sortOrder="@(Model.LandscapeSortViewModel.SoilTypeSort)"
+               asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+               asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+               style="color:brown; text-shadow: black 0 0 1px;"><b>Тип наповнювача</b></a>
+        </th>
+        <th>
+            <a asp-action="LandscapesPage"
+               asp-route-sortOrder="@(Model.LandscapeSortViewModel.SoilPriceSort)"
+               asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+               asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+               style="color:brown; text-shadow: black 0 0 1px;"><b>Ціна</b></a>
+        </th>
+        <th>
+            <a asp-action="LandscapesPage"
+               asp-route-sortOrder="@(Model.LandscapeSortViewModel.DecorationIdSort)"
+               asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+               asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+               style="color:brown; text-shadow: black 0 0 1px;"><b>Тип коряги</b></a>
+        </th>
+        <th>
+            <a asp-action="LandscapesPage"
+               asp-route-sortOrder="@(Model.LandscapeSortViewModel.DecorationIdSort)"
+               asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+               asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+               style="color:brown; text-shadow: black 0 0 1px;"><b>Її розмір</b></a>
+        </th>
+    </tr>
+    @foreach (var item in Model.Landscapes)
+    {
+        <tr>
+            <td>@item.CategoryName</td>
+            <td>@item.NameOfThePlant</td>
+            <td>@item.PlantPrice<b> ₴</b></td>
+            <td>@item.SoilType</td>
+            <td>@item.SoilPrice<b> ₴</b></td>
+            <td>@item.Decoration.TypeOfDriftwood</td>
+            <td>@item.Decoration.DriftwoodSize</td>
+        </tr>
+    }
+</table>
+@if (Model.PageViewModel.HasPreviousPage)
+{
+    <a asp-action="LandscapesPage"
+   asp-route-page="@(Model.PageViewModel.PageNumber - 1)"
+   asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+   asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+   asp-route-sortorder="@(Model.LandscapeSortViewModel.Current)"
+   class="btn  btn-outline-dark">
+        <i class="glyphicon glyphicon-chevron-left"></i>
+        Назад
+    </a>
+}
+@if (Model.PageViewModel.HasNextPage)
+{
+    <a asp-action="LandscapesPage"
+   asp-route-page="@(Model.PageViewModel.PageNumber + 1)"
+   asp-route-name="@(Model.LandscapeFilterViewModel.SelectedName)"
+   asp-route-company="@(Model.LandscapeFilterViewModel.SelectedDecoration)"
+   asp-route-sortorder="@(Model.LandscapeSortViewModel.Current)"
+   class="btn btn-outline-dark">
+        Вперед
+        <i class="glyphicon glyphicon-chevron-right"></i>
+    </a>
+}
+<br />
+<br />
+<br />
+<br />

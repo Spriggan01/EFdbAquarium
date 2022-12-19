@@ -1,0 +1,148 @@
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\appsettings.Development.json
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\appsettings.json
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.staticwebassets.runtime.json
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.exe
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.deps.json
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.runtimeconfig.json
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.pdb
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Azure.Core.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Azure.Identity.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Memory.Data.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.csproj.AssemblyReference.cache
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.GeneratedMSBuildEditorConfig.editorconfig
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.AssemblyInfoInputs.cache
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.AssemblyInfo.cs
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.csproj.CoreCompileInputs.cache
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.MvcApplicationPartsAssemblyInfo.cache
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.RazorAssemblyInfo.cache
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.RazorAssemblyInfo.cs
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\staticwebassets.build.json
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\staticwebassets.development.json
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\scopedcss\bundle\EFdbAquarium.styles.css
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\scopedcss\projectbundle\EFdbAquarium.bundle.scp.css
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.csproj.CopyComplete
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\refint\EFdbAquarium.dll
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.pdb
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.genruntimeconfig.cache
+G:\универ\3 курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\ref\EFdbAquarium.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\appsettings.Development.json
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\appsettings.json
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.staticwebassets.runtime.json
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.exe
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.deps.json
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.runtimeconfig.json
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\EFdbAquarium.pdb
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Azure.Core.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Azure.Identity.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Memory.Data.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.csproj.AssemblyReference.cache
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.GeneratedMSBuildEditorConfig.editorconfig
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.AssemblyInfoInputs.cache
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.AssemblyInfo.cs
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.csproj.CoreCompileInputs.cache
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.MvcApplicationPartsAssemblyInfo.cache
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.RazorAssemblyInfo.cache
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.RazorAssemblyInfo.cs
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\staticwebassets.build.json
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\staticwebassets.development.json
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\scopedcss\bundle\EFdbAquarium.styles.css
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\scopedcss\projectbundle\EFdbAquarium.bundle.scp.css
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.csproj.CopyComplete
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\refint\EFdbAquarium.dll
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.pdb
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\EFdbAquarium.genruntimeconfig.cache
+G:\универ\3_курс\курсач\КР_Web-dev\EFdbAquarium\EFdbAquarium\obj\Debug\net6.0\ref\EFdbAquarium.dll

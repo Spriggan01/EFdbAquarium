@@ -1,0 +1,43 @@
+﻿@using EFdbAquarium.Models
+@model EFdbAquarium.Models.Aquarium
+@{
+    ViewBag.Title = Model.Id;
+}
+<h2>Ідентифікатор: @Model.Id</h2>
+<div>
+    <table class="table">
+        <tr>
+            <th>Форма</th>
+            <th>Об'єм</th>
+            <th>Фільтр</th>
+            <th>Компресор</th>
+            <th>Ціна</th>
+            <th></th>
+        </tr>
+        <tr>
+            <td>@Model.Shape</td>
+            <td>@Model.Volume</td>
+            <td>@Model.Filter</td>
+            <td>@Model.Compressor</td>
+            <td>@Model.Price<b> ₴</b></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>Матеріал тумби</th>
+            <th>Її розмір</th>
+            <th>Колір</th>
+            <th>Тип освітлення</th>
+            <th>Тип коряги</th>
+            <th>Її розмір</th>
+        </tr>
+        <tr>
+            <td>@Model.Rack?.Material</td>
+            <td>@Model.Rack?.Size</td>
+            <td>@Model.Rack?.Color</td>
+            <td>@Model.Light?.TypeOfLight</td>
+            <td>@Model.Decoration.TypeOfDriftwood</td>
+            <td>@Model.Decoration.DriftwoodSize</td>
+        </tr>
+    </table>
+</div>
+<a asp-action ="AquariumsPage" class="btn btn-primary mb-2">Повернутися назад</a>

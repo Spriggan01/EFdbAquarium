@@ -1,0 +1,21 @@
+﻿@model EFdbAquarium.Models.Fish
+@{
+    ViewBag.Title = "Додавання риби";
+}
+<form asp-action="createfish" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="Species" class="control-label">Вид</label>
+        <input type="text" asp-for="Species" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Назва</label>
+        <input type="text" asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="control-label">Ціна</label>
+        <input type="text" asp-for="Price" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Надіслати" class="btn btn-default" />
+    </div>
+</form>
